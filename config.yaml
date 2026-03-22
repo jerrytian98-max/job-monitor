@@ -1,0 +1,14 @@
+check_interval: 4
+cities: []
+email:
+  auth_code: ATwg83A67FRZn9tc
+  receiver: jerrytian01@163.com
+  sender: jerrytian01@163.com
+  smtp_port: 465
+  smtp_server: smtp.163.com
+exclude_keywords: []
+gemini_api_key: AIzaSyB89OLNtEwIv1WcaGCiC2v_0XK77DpZgYw
+job_keywords:
+- 法务
+job_sites:
+- https://jobs.bytedance.com/experienced/position/list?keywords=%E6%88%98%E7%95%A5

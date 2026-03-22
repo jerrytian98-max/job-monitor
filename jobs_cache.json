@@ -1,0 +1,574 @@
+{
+  "7b9ef4580d4baf66dc859d9d6cb7ef80": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "阿里巴巴",
+      "salary": "20K-35K",
+      "city": "北京",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "434c88ea58ab280f0f9cb601576682b1": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "阿里巴巴",
+      "salary": "20K-35K",
+      "city": "上海",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "fc7c7aa10e8715f36e9c3fde6ac508f7": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "阿里巴巴",
+      "salary": "20K-35K",
+      "city": "深圳",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "273cf8a0873fd562a8a30b9e27b6261f": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "阿里巴巴",
+      "salary": "20K-35K",
+      "city": "杭州",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "e7fd8cb2c14a0beedd34a76663920ba8": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "腾讯",
+      "salary": "20K-35K",
+      "city": "北京",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "e1117df0e0ecb35a343e71785e7a4959": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "腾讯",
+      "salary": "20K-35K",
+      "city": "上海",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "3eefc0ddb4e0e9270165cadbfa1a2523": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "腾讯",
+      "salary": "20K-35K",
+      "city": "深圳",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "7788b13a8a47b5f473c8c25feb6255f9": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "腾讯",
+      "salary": "20K-35K",
+      "city": "杭州",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "87998570b50d50110451cb8082fbe73b": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "字节跳动",
+      "salary": "20K-35K",
+      "city": "北京",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "1988de3461e2bb5c592594ee8a787db9": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "字节跳动",
+      "salary": "20K-35K",
+      "city": "上海",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "33c64e45936f8cc6284c1e353a0f7430": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "字节跳动",
+      "salary": "20K-35K",
+      "city": "深圳",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "17ffe2bdbbfc709d0b0be5873a6e18b0": {
+    "job": {
+      "title": "数据分析师工程师",
+      "company": "字节跳动",
+      "salary": "20K-35K",
+      "city": "杭州",
+      "url": "https://www.zhipin.com/job_detail/xxxx",
+      "description": "数据分析师相关职位，要求熟练掌握数据分析师技能，有相关项目经验者优先。",
+      "publish_time": "2026-03-11",
+      "source_site": "BOSS直聘"
+    },
+    "found_time": null
+  },
+  "a60f6033700c12b027d838172cc744d8": {
+    "job": {
+      "title": "商业化战略BP-广告业务",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7261916715696556344/detail",
+      "description": "商业化战略BP-广告业务 北京 正式 职能 / 支持 - 战略 职位 ID：A78749 1、作为业务的战略伙伴，支持字节跳动广告业务，包括端变现和策略、搜索、行业产品等方向； 2、对接相关业务团队，基于专项分析和调研结论，产出策略建议，并推动解决方案落地； 3、主动发现问题和业务痛点，并输出短中长期可落地的解决方案、推进各方落地； 4、负责最大化资源配置，解决效率问题，从流程、制度角度来解决问题。",
+      "publish_time": "2026-03-19",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": null
+  },
+  "9aa905a87a32450380037c2ac5ac00df": {
+    "job": {
+      "title": "AI大模型战略经理-火山引擎",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7418880220143225125/detail",
+      "description": "AI大模型战略经理-火山引擎 北京 正式 职能 / 支持 - 战略 职位 ID：A23461 1、负责制定火山引擎在AI大模型领域的战略规划，包括豆包大模型、AI应用、GPU基础设施等的AI全栈战略； 2、追踪、分析全球大模型LLM/AIGC等领域的前沿技术趋势，研究全球顶尖的AI独角兽，思考、探索下一代AI产品形态与商业模式，推动业务创新； 3、参与AI大模型相关业务的孵化与落地，支持业务落地中的行业和公司研究、目标与战略制定、产品长期演进路线讨论等； 4、协助潜在的战略生态合作及投资项目，协调资源、推动开展外部战略合作和内部跨团队协同类项目。",
+      "publish_time": "2026-03-19",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": null
+  },
+  "e4ccb48d5a30ed0bb754e7ce21819cee": {
+    "job": {
+      "title": "战略投资经理-火山引擎",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/6966184229286578462/detail",
+      "description": "战略投资经理-火山引擎 北京 正式 职能 / 支持 - 战略 职位 ID：5NAP 1、结合火山引擎自有产品及业务发展方向，深度追踪调研To B细分领域发展趋势及行业赛道，关注方向包含但不局限于云计算、芯片、企业服务、视频云、AI、安全、大数据、云原生等； 2、基于CVC视角，深入分析投资标的，设计并购及投资方案，牵头管理整个投资交易流程，包括行业调研、标的分析、投资、谈判、投后管理，协同方案落地； 3、与集团业务及产品研发团队深度合作，参与业务规划，推动行业发展，帮助业务及产品负责人完成关键决策； 4、建立内外投资影响力，运用资本手段协助火山引擎完成在业务及技术路线布局，协助推动业务战略发展。",
+      "publish_time": "2026-03-19",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": null
+  },
+  "101396be4f6337c61f03deabb1cf140b": {
+    "job": {
+      "title": "战略BP-抖音生活服务",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7524722121386248456/detail",
+      "description": "战略BP-抖音生活服务 北京 正式 运营 职位 ID：A107896 1、结合生活服务整体策略和各合作方诉求及表现，对生活服务用户、流量及供给策略方向展开深度研究分析，支持关键业务决策； 2、持续跟踪生活服务行业前沿趋势及市场表现，结合产品实际情况，通过数据和研究手段，寻找业务创新方向和重点课题，产出策略并推动落地； 3、管理生活服务团队多个业务模块，制定分模块业务的长期战略，并作为战略PMO推动策略落地。",
+      "publish_time": "2026-03-19",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": null
+  },
+  "19f43b15a5608b8265a8c4b0a8d50c3b": {
+    "job": {
+      "title": "战略BP-中国广告销售平台",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7472740566146009351/detail",
+      "description": "战略BP-中国广告销售平台 上海 正式 运营 职位 ID：A98557 1、对快消行业如3C电子、美妆、服饰、日化行业，及内容行业如直播、游戏、短剧、应用等行业开展深度分析，持续跟踪数字营销领域前沿趋势，支持商业化关键业务决策； 2、作为字节跳动商业化各行业销售负责人的战略伙伴，追踪业务进展，从动态数据中发掘洞察，并在此基础上主动发起项目并持续统筹执行； 3、推进销售、产品、营销等团队在关键项目层面的决策沟通，促进创新模式落地与组织能力提升。",
+      "publish_time": "2026-03-19",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": null
+  },
+  "ff27e15d74fb4c3a366c3e1e119e657c": {
+    "job": {
+      "title": "资深XR战略专家-PICO",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7591397678131464453/detail",
+      "description": "资深XR战略专家-PICO 北京 正式 职能 / 支持 - 战略 职位 ID：A155000 1、支持PICO业务负责人和核心管理团队制定AR、VR和AI的中长期战略；这涉及到在商业模式、技术进步和内容生态系统发展等方面进行全面考量； 2、对行业内主要公司的战略举措进行深入分析；持续监测技术趋势、产品演变和组织架构的变化； 3、系统地跟踪和研究行业内新兴企业；积极探索投资、收购前景或潜在的合作机会； 4、与战略合作伙伴建立联系。",
+      "publish_time": "2026-03-19",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": null
+  },
+  "052d3e84193d7b4ac24cc7226ae9ce9b": {
+    "job": {
+      "title": "内容消费行业战略BP-商业化",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7563676888114989317/detail",
+      "description": "内容消费行业战略BP-商业化 上海 正式 运营 职位 ID：A259227 1、对内容消费行业如游戏、短剧、小说、工具类软件等行业开展深度分析，持续跟踪数字营销领域前沿趋势，支持商业化关键业务决策； 2、作为字节跳动商业化各行业销售负责人的战略伙伴，追踪业务进展，从动态数据中发掘洞察，并在此基础上主动发起项目并持续统筹执行； 3、推进销售、产品、营销等团队在关键项目层面的决策沟通，促进创新模式落地与组织能力提升。",
+      "publish_time": "2026-03-19",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": null
+  },
+  "803211bbfe3f9ca3a5baf9a36f301a9d": {
+    "job": {
+      "title": "大众业务战略BP-中国销售业务平台",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7366211800407591195/detail",
+      "description": "大众业务战略BP-中国销售业务平台 北京 正式 运营 职位 ID：A245996A 1、对快消行业如3C电子、美妆、服饰、日化行业，及内容行业如直播、游戏、短剧、应用等行业开展深度分析，持续跟踪数字营销领域前沿趋势，支持商业化关键业务决策； 2、作为字节跳动商业化各行业销售负责人的战略伙伴，追踪业务进展，从动态数据中发掘洞察，并在此基础上主动发起项目并持续统筹执行； 3、推进销售、产品、营销等团队在关键项目层面的决策沟通，促进创新模式落地与组织能力提升。",
+      "publish_time": "2026-03-19",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": null
+  },
+  "f8ddada5c2525fed9cbef20458cb2b7d": {
+    "job": {
+      "title": "内容与流量战略分析师-生活服务",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7493498097960716562/detail",
+      "description": "内容与流量战略分析师-生活服务 上海 正式 运营 职位 ID：A230626 1、结合生活服务整体策略和各合作方诉求及表现，对生服不同交易场景及内容表现开展深度研究分析，支持关键业务决策； 2、持续跟踪生活服务行业前沿趋势及竞对表现，结合产品实际情况，通过数据和研究手段，寻找业务创新方向和重点课题，产出策略并推动落地； 3、BP生活服务内容与创作者、C端产品等团队多个模块，制定分模块业务的长期战略，并作为战略PMO推动策略落地。",
+      "publish_time": "2026-03-19",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": null
+  },
+  "916cfc4044b8fa06bee03d094b19a62e": {
+    "job": {
+      "title": "投资者关系/证券事务代表",
+      "company": "www.zhipin.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://www.zhipin.com/c100010000-p180120/",
+      "description": "投资者关系/证券事务代表",
+      "publish_time": "2026-03-19",
+      "source_site": "www.zhipin.com"
+    },
+    "found_time": "2026-03-19 23:17:45"
+  },
+  "84972fe8822bdaee445c7bbb7d7ab557": {
+    "job": {
+      "title": "保险售后服务专员",
+      "company": "www.zhipin.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://www.zhipin.com/job_detail/d1818da3789bf3261HZz09q_FlZQ.html",
+      "description": "保险售后服务专员 北京 经验不限 大专 客户服务 投资理财规划",
+      "publish_time": "2026-03-19",
+      "source_site": "www.zhipin.com"
+    },
+    "found_time": "2026-03-19 23:17:45"
+  },
+  "ff8fa0bc00d480e57af411d19144ae42": {
+    "job": {
+      "title": "投资者关系",
+      "company": "www.zhipin.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://ir.zhipin.com/",
+      "description": "投资者关系 Investor Relations",
+      "publish_time": "2026-03-19",
+      "source_site": "www.zhipin.com"
+    },
+    "found_time": "2026-03-19 23:17:45"
+  },
+  "1c8ca5e8694851df60d44d79a48895be": {
+    "job": {
+      "title": "商业化战略BP-广告业务北京正式职能 / 支持 - 战略职位 ID：A787491、作为业务的战略伙...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7261916715696556344/detail",
+      "description": "商业化战略BP-广告业务北京正式职能 / 支持 - 战略职位 ID：A787491、作为业务的战略伙伴，支持字节跳动广告业务，包括端变现和策略、搜索、行业产品等方向；\n2、对接相关业务团队，基于专项分析和调研结论，产出策略建议，并推动解决方案落地；\n3、主动发现问题和业务痛点，并输出短中长期可落地的解决方案、推进各方落地；\n4、负责最大化资源配置，解决效率问题，从流程、制度角度来解决问题。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "5ba472fbbb49c06c2b70b7df27cef0e3": {
+    "job": {
+      "title": "AI大模型战略经理-火山引擎北京正式职能 / 支持 - 战略职位 ID：A234611、负责制定火山...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7418880220143225125/detail",
+      "description": "AI大模型战略经理-火山引擎北京正式职能 / 支持 - 战略职位 ID：A234611、负责制定火山引擎在AI大模型领域的战略规划，包括豆包大模型、AI应用、GPU基础设施等的AI全栈战略；\n2、追踪、分析全球大模型LLM/AIGC等领域的前沿技术趋势，研究全球顶尖的AI独角兽，思考、探索下一代AI产品形态与商业模式，推动业务创新；\n3、参与AI大模型相关业务的孵化与落地，支持业务落地中的行业和公司研究、目标与战略制定、产品长期演进路线讨论等；\n4、协助潜在的战略生态合作及投资项目，协调资源、推动开展外部战略合作和内部跨团队协同类项目。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "9d9fa84cdead4e6481563308cf1ff4bb": {
+    "job": {
+      "title": "战略投资经理-火山引擎北京正式职能 / 支持 - 战略职位 ID：5NAP1、结合火山引擎自有产品及...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/6966184229286578462/detail",
+      "description": "战略投资经理-火山引擎北京正式职能 / 支持 - 战略职位 ID：5NAP1、结合火山引擎自有产品及业务发展方向，深度追踪调研To B细分领域发展趋势及行业赛道，关注方向包含但不局限于云计算、芯片、企业服务、视频云、AI、安全、大数据、云原生等；\n2、基于CVC视角，深入分析投资标的，设计并购及投资方案，牵头管理整个投资交易流程，包括行业调研、标的分析、投资、谈判、投后管理，协同方案落地；\n3、与集团业务及产品研发团队深度合作，参与业务规划，推动行业发展，帮助业务及产品负责人完成关键决策；\n4、建立内外投资影响力，运用资本手段协助火山引擎完成在业务及技术路线布局，协助推动业务战略发展。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "72932feb1d6033ea8e36928d3892b13f": {
+    "job": {
+      "title": "战略BP-抖音生活服务北京正式运营职位 ID：A1078961、结合生活服务整体策略和各合作方诉求及...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7524722121386248456/detail",
+      "description": "战略BP-抖音生活服务北京正式运营职位 ID：A1078961、结合生活服务整体策略和各合作方诉求及表现，对生活服务用户、流量及供给策略方向展开深度研究分析，支持关键业务决策；\n2、持续跟踪生活服务行业前沿趋势及市场表现，结合产品实际情况，通过数据和研究手段，寻找业务创新方向和重点课题，产出策略并推动落地；\n3、管理生活服务团队多个业务模块，制定分模块业务的长期战略，并作为战略PMO推动策略落地。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "4092c9089b8c07c34b4577903506f2be": {
+    "job": {
+      "title": "战略BP-抖音生活服务上海正式运营职位 ID：A1439201、结合生活服务整体策略和各合作方诉求及...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7524722067334482184/detail",
+      "description": "战略BP-抖音生活服务上海正式运营职位 ID：A1439201、结合生活服务整体策略和各合作方诉求及表现，对生活服务用户、流量及供给策略方向展开深度研究分析，支持关键业务决策；\n2、持续跟踪生活服务行业前沿趋势及市场表现，结合产品实际情况，通过数据和研究手段，寻找业务创新方向和重点课题，产出策略并推动落地；\n3、BP生活服务团队多个业务模块，制定分模块业务的长期战略，并作为战略PMO推动策略落地。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "8df78c443190b073166626c811c3623e": {
+    "job": {
+      "title": "战略BP-中国广告销售平台上海正式运营职位 ID：A985571、对快消行业如3C电子、美妆、服饰、...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7472740566146009351/detail",
+      "description": "战略BP-中国广告销售平台上海正式运营职位 ID：A985571、对快消行业如3C电子、美妆、服饰、日化行业，及内容行业如直播、游戏、短剧、应用等行业开展深度分析，持续跟踪数字营销领域前沿趋势，支持商业化关键业务决策；\n2、作为字节跳动商业化各行业销售负责人的战略伙伴，追踪业务进展，从动态数据中发掘洞察，并在此基础上主动发起项目并持续统筹执行；\n3、推进销售、产品、营销等团队在关键项目层面的决策沟通，促进创新模式落地与组织能力提升。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "f23630e94953f2ab805d43792f8eda78": {
+    "job": {
+      "title": "内容消费行业战略BP-商业化上海正式运营职位 ID：A2592271、对内容消费行业如游戏、短剧、小...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7563676888114989317/detail",
+      "description": "内容消费行业战略BP-商业化上海正式运营职位 ID：A2592271、对内容消费行业如游戏、短剧、小说、工具类软件等行业开展深度分析，持续跟踪数字营销领域前沿趋势，支持商业化关键业务决策；\n2、作为字节跳动商业化各行业销售负责人的战略伙伴，追踪业务进展，从动态数据中发掘洞察，并在此基础上主动发起项目并持续统筹执行；\n3、推进销售、产品、营销等团队在关键项目层面的决策沟通，促进创新模式落地与组织能力提升。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "fa1e33ea1ca605d4772fad2847ed38d9": {
+    "job": {
+      "title": "大众业务战略BP-中国销售业务平台北京正式运营职位 ID：A245996A1、对快消行业如3C电子、...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7366211800407591195/detail",
+      "description": "大众业务战略BP-中国销售业务平台北京正式运营职位 ID：A245996A1、对快消行业如3C电子、美妆、服饰、日化行业，及内容行业如直播、游戏、短剧、应用等行业开展深度分析，持续跟踪数字营销领域前沿趋势，支持商业化关键业务决策；\n2、作为字节跳动商业化各行业销售负责人的战略伙伴，追踪业务进展，从动态数据中发掘洞察，并在此基础上主动发起项目并持续统筹执行；\n3、推进销售、产品、营销等团队在关键项目层面的决策沟通，促进创新模式落地与组织能力提升。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "6fdaf0b08cc6a93dfe4cd59e62b4c163": {
+    "job": {
+      "title": "内容与流量战略分析师-生活服务北京正式运营职位 ID：A61454A1、结合生活服务整体策略和各合作...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7493495259013597458/detail",
+      "description": "内容与流量战略分析师-生活服务北京正式运营职位 ID：A61454A1、结合生活服务整体策略和各合作方诉求及表现，对生服不同交易场景及内容表现开展深度研究分析，支持关键业务决策；\n2、持续跟踪生活服务行业前沿趋势及竞对表现，结合产品实际情况，通过数据和研究手段，寻找业务创新方向和重点课题，产出策略并推动落地；\n3、BP生活服务内容与创作者、C端产品等团队多个模块，制定分模块业务的长期战略，并作为战略PMO推动策略落地。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "a6d9c83cc763e0661f9f67cb60d0b0fc": {
+    "job": {
+      "title": "内容与流量战略分析师-生活服务上海正式运营职位 ID：A2306261、结合生活服务整体策略和各合作...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7493498097960716562/detail",
+      "description": "内容与流量战略分析师-生活服务上海正式运营职位 ID：A2306261、结合生活服务整体策略和各合作方诉求及表现，对生服不同交易场景及内容表现开展深度研究分析，支持关键业务决策；\n2、持续跟踪生活服务行业前沿趋势及竞对表现，结合产品实际情况，通过数据和研究手段，寻找业务创新方向和重点课题，产出策略并推动落地；\n3、BP生活服务内容与创作者、C端产品等团队多个模块，制定分模块业务的长期战略，并作为战略PMO推动策略落地。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:41:08"
+  },
+  "56528c12233688dc0bbef214454dd3e5": {
+    "job": {
+      "title": "法务AI应用专家北京正式职能 / 支持 - 法务职位 ID：A528971、围绕法务部工作场景，识别...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7615128609917143349/detail",
+      "description": "法务AI应用专家北京正式职能 / 支持 - 法务职位 ID：A528971、围绕法务部工作场景，识别并定义高价值AI应用场景，制定法务AI产品方案，并与产品研发团队紧密协作，推进方案落地、效果评估与迭代调优；\n2、制作高质量的法务工作场景Skill和AI解决方案，通过高效的评测、数据分析、产品技术沟通，快速定位问题并推进解决；\n3、在充分理解法务工作特点的基础上，将AI与法务工作系统和流程相结合，推进AI产品的系统和流程接入，进一步实现流程的自动化，协同运营、产品研发同学推进落地；\n4、为AI应用做好数据支持，制作数字化解决方案，基于法务工作数据和产品流程设计，识别筛选高质量数据；\n5、跟进法律AI行业的新产品和技术发展迭代情况，能够快速学习AI新技术在法务工作场景的应用，分析判断技术影响。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  },
+  "5038fe7cacbafc339520d5dc7db9269e": {
+    "job": {
+      "title": "劳动关系法务北京正式职能 / 支持 - 法务职位 ID：T6V11、审阅、起草、修订劳动合同、保密协...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/6704527326677305612/detail",
+      "description": "劳动关系法务北京正式职能 / 支持 - 法务职位 ID：T6V11、审阅、起草、修订劳动合同、保密协议、竞业禁止协议、劳务协议、员工手册等文件；\n2、建立健全劳动合同管理，指导劳动合同的签订、履行、解除、变更以及续订等用工行为，合理规避用工风险；\n3、处理劳动人事相关纠纷、仲裁、诉讼；\n4、研究劳动人事新法规和规章、劳动人事政策，为公司的合法用工提供法律意见或建议。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  },
+  "768744663b00f3e315d2da8ebdc67710": {
+    "job": {
+      "title": "飞书法务BP北京正式职能 / 支持 - 法务职位 ID：A230606A1、作为飞书业务线法务BP，...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7587042710508505397/detail",
+      "description": "飞书法务BP北京正式职能 / 支持 - 法务职位 ID：A230606A1、作为飞书业务线法务BP，对接各业务模块，提供日常法律问题咨询解答，响应业务需求，出具具有可操作性的法律意见；\n2、确保业务运营符合国家法律法规、行业监管要求及公司内部规章制度，重点推进数据安全、隐私保护等专项合规工作，配合完成合规审计、监管检查等相关事宜；\n3、梳理业务全流程潜在法律风险点，制定针对性的风险防控措施与操作指引，定期开展业务团队法律培训，提升全员法律风险意识；\n4、负责业务相关合同的起草、审核、谈判支持，建立并优化业务线合同模板体系，提升合同流转效率与风险管控水平；\n5、协助处理业务相关的法律纠纷、投诉及突发事件，维护公司合法权益；\n6、开展业务团队的法律培训，提升全员法律合规意识，输出贴合业务场景的法律知识内容。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  },
+  "8038ad04dc176707838ecc3d47be1a6d": {
+    "job": {
+      "title": "技术中台法务（数据方向）北京正式职能 / 支持 - 法务职位 ID：A149235A1、作为技术中台...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7599632139337074949/detail",
+      "description": "技术中台法务（数据方向）北京正式职能 / 支持 - 法务职位 ID：A149235A1、作为技术中台业务的法务BP，对接各相关业务模块，提供日常法律问题咨询解答，响应业务需求，出具具有可操作性的法律意见；\n2、负责为公司技术中台相关业务提供数据合规及隐私保护法律意见，针对业务运营、具体产品搭建或功能迭代、技术研发、人工智能应用等需求，识别数据及隐私法律风险并提供可落地的降险建议，保障业务合规开展；\n3、负责业务相关合同的起草、审核、谈判支持；\n4、协助处理业务相关的法律纠纷、投诉及突发事件，维护公司合法权益；\n5、基于业务开展合规研究，输出合规指引，推动业务相关合规体系优化；\n6、为业务提供法律培训，提升业务团队法律风险意识与合规操作能力。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  },
+  "d1ea2b1fd67ac230b3873c3350e703dd": {
+    "job": {
+      "title": "火山引擎法务BP北京正式职能 / 支持 - 法务职位 ID：A351281、负责火山引擎销售及市场相...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7592149321830074677/detail",
+      "description": "火山引擎法务BP北京正式职能 / 支持 - 法务职位 ID：A351281、负责火山引擎销售及市场相关法律文件管理，包括起草、审核、修订销售合同、合作协议、市场推广合作协议等；\n2、对接销售与市场团队提供法律支持，解答法律疑问，参与关键合作谈判并协助制定谈判策略，保障业务顺利推进；\n3、跟踪合同履约，识别并应对履约风险，协助处理合同履行过程中的争议与纠纷；\n4、开展合规研究，梳理行业监管政策动态，输出合规指引，推动销售与市场流程的合规体系优化；\n5、为业务提供法律培训，提升团队法律风险意识与合规操作能力；\n6、完成销售与市场领域相关合规检查、监管应对等工作，输出专业法律支持。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  },
+  "ad03cdb62600ccae6054b554254f6e88": {
+    "job": {
+      "title": "诉讼法务北京正式职能 / 支持 - 法务职位 ID：A83896B1、独立应对包括证据组织、出庭应诉...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7525354020862707975/detail",
+      "description": "诉讼法务北京正式职能 / 支持 - 法务职位 ID：A83896B1、独立应对包括证据组织、出庭应诉等在内的全流程诉讼工作；\n2、独立就公司涉互联网、民商事相关争议提供法律意见并支持业务相关评估及维权需求；\n3、统筹协调内外部信息及资源，精准把控案件走向，有效维护公司合法权益。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  },
+  "08644d0e59a293a200353c08baf3a403": {
+    "job": {
+      "title": "诉讼维权法务北京正式职能 / 支持 - 法务职位 ID：A1448761、负责处理互联网电商平台责任...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7561301946835274037/detail",
+      "description": "诉讼维权法务北京正式职能 / 支持 - 法务职位 ID：A1448761、负责处理互联网电商平台责任、消费者纠纷等各类诉讼、仲裁案件，包括案件评估、法律文件撰写、出庭应诉、沟通谈判、判决仲裁的执行等；\n2、及时响应业务维权需求，有效跟进维权进展，达成维权目标；\n3、对公司业务所涉法律法规政策进行调研，撰写调研报告、策略指南；\n4、其他争议纠纷解决相关法律事务的处理和跟进。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  },
+  "f386db15eac77ddbe6ecf309347d2867": {
+    "job": {
+      "title": "诉讼维权法务（上海）上海正式职能 / 支持 - 法务职位 ID：A142851、负责处理互联网电商平...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7561301946854869309/detail",
+      "description": "诉讼维权法务（上海）上海正式职能 / 支持 - 法务职位 ID：A142851、负责处理互联网电商平台责任、消费者纠纷等各类诉讼、仲裁案件，包括案件评估、法律文件撰写、出庭应诉、沟通谈判、判决仲裁的执行等；\n2、及时响应业务维权需求，有效跟进维权进展，达成维权目标；\n3、对公司业务所涉法律法规政策进行调研，撰写调研报告、策略指南；\n4、其他争议纠纷解决相关法律事务的处理和跟进。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  },
+  "424eb629e64bff40fcc3d37897bb7dbd": {
+    "job": {
+      "title": "法务产品经理-信息系统北京正式产品职位 ID：A634311、负责法务管理平台产品规划、需求分析、方...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7428483612711946505/detail",
+      "description": "法务产品经理-信息系统北京正式产品职位 ID：A634311、负责法务管理平台产品规划、需求分析、方案设计、产品落地实施、产品管理等工作；\n2、与法务、内审、合规以及字节跳动各前端产品线共同协作，构建合规管理体系、知识产权管理体系和法务诉讼流程框架，并以此为基础，抽象业务模型、借鉴行业先进经验，形成可落地的解决方案和产品； \n3、协同开发和测试团队完成法务相关管理平台产品的实现和落地；\n4、引入内外部合作伙伴，构建开放、互惠的生态平台体系。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  },
+  "2cce0835b5aa74bdb4c319fac4c09f78": {
+    "job": {
+      "title": "标准专利法务（北京/上海/深圳）北京正式职能 / 支持职位 ID：A1513581、完成标准必要专利...",
+      "company": "jobs.bytedance.com",
+      "salary": "面议",
+      "city": "未知",
+      "url": "https://jobs.bytedance.com/experienced/position/7377268489390852378/detail",
+      "description": "标准专利法务（北京/上海/深圳）北京正式职能 / 支持职位 ID：A1513581、完成标准必要专利全球布局以及相关分析工作，确保专利案件按时保质保量完成，管理、统计、分析公司及行业专利；\n2、支持应对全球标准必要专利争议，完成专利侵权分析、无效分析等工作；\n3、支持标准必要专利相关的许可谈判；\n4、完成其他与专利相关的工作事项。",
+      "publish_time": "2026-03-22",
+      "source_site": "jobs.bytedance.com"
+    },
+    "found_time": "2026-03-22 14:43:23"
+  }
+}

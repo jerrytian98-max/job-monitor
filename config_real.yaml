@@ -1,0 +1,48 @@
+# 招聘监测系统配置文件 - 真实数据模式
+
+# 监测的公司列表（支持多个）
+target_companies:
+  - "腾讯"
+  - "阿里巴巴"
+  - "字节跳动"
+
+# 职位关键词（至少包含其中一个才匹配）
+job_keywords:
+  - "Python"
+  - "Java"
+  - "前端"
+  - "后端"
+
+# 城市筛选（可选，空表示不限制）
+cities:
+  - "深圳"
+  - "北京"
+  - "上海"
+
+# 监测模式
+# simulation: 使用模拟数据（快速演示）
+# real: 使用真实爬虫（速度慢，可能被封禁）
+monitor_mode: "simulation"
+
+# 如果使用真实爬虫，可以提供具体的职位URL列表
+# 直接从这些URL提取职位信息
+custom_job_urls:
+  - "https://www.zhipin.com/job_detail/xxxxxxxxx"
+  - "https://www.lagou.com/jobs/xxxxx.html"
+  - "https://www.liepin.com/job/xxxxx"
+
+# 邮件配置
+email:
+  sender: "your_email@gmail.com"
+  auth_code: "your_auth_code"
+  receiver: "your_email@gmail.com"
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+
+# 监测间隔（小时）
+check_interval: 2
+
+# 排除的关键词（可选）
+exclude_keywords:
+  - "实习"
+  - "兼职"
