@@ -88,6 +88,16 @@ class JobDatabase:
         job_str = f"{job.get('url', '')}_{job.get('title', '')}"
         return hashlib.md5(job_str.encode('utf-8')).hexdigest()
     
+    def job_exists(self, job: Dict) -> bool:
+        conn = self._get_connection()
+        try:
+            cursor = conn.cursor()
+            job_hash = self._generate_hash(job)
+            cursor.execute('SELECT id FROM jobs WHERE job_hash = ?', (job_hash,))
+            return cursor.fetchone() is not None
+        finally:
+            conn.close()
+
     def add_job(self, job: Dict) -> bool:
         """
         添加职位到数据库
@@ -139,6 +149,16 @@ class JobDatabase:
         finally:
             conn.close()
     
+    def job_exists(self, job: Dict) -> bool:
+        conn = self._get_connection()
+        try:
+            cursor = conn.cursor()
+            job_hash = self._generate_hash(job)
+            cursor.execute('SELECT id FROM jobs WHERE job_hash = ?', (job_hash,))
+            return cursor.fetchone() is not None
+        finally:
+            conn.close()
+
     def add_jobs_batch(self, jobs: List[Dict]) -> int:
         """
         批量添加职位

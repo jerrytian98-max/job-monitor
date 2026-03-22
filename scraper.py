@@ -120,7 +120,9 @@ class UniversalScraperWithPlaywright(JobScraper):
                                 
                             # 简单的判断逻辑：如果链接文本包含我们要搜的关键词，或者是比较长的一段文字，很可能是职位
                             # 实际业务中这里可以更复杂，但作为通用爬虫，我们尽量宽松然后用 matcher 过滤
-                            if keyword.lower() in text.lower() or len(text) > 8:
+                            if extracted_count >= 50:
+                                      break
+                                  if keyword.lower() in text.lower() or len(text) > 8:
                                 job_link = href
                                 if job_link.startswith('/'):
                                     parsed = urlparse(target_url)
@@ -139,6 +141,7 @@ class UniversalScraperWithPlaywright(JobScraper):
                                 # 简单去重
                                 if not any(j['url'] == job['url'] for j in jobs):
                                     jobs.append(job)
+                                      extracted_count += 1
                                     extracted_count += 1
                                     
                         logger.info(f"关键词 '{keyword}' 提取到 {extracted_count} 个可能职位")
@@ -213,6 +216,7 @@ class ZhipinScraper(JobScraper):
                             job = self._parse_zhipin_job(card, company, city)
                             if job:
                                 jobs.append(job)
+                                      extracted_count += 1
                         except Exception as e:
                             logger.error(f"解析单个职位失败: {e}")
                             continue
@@ -336,6 +340,7 @@ class LagouScraper(JobScraper):
                                 job = self._parse_lagou_job(pos, company, city)
                                 if job:
                                     jobs.append(job)
+                                      extracted_count += 1
 
                             logger.info(f"从拉勾网获取到 {len(jobs)} 个职位（{company}-{keyword}-{city}）")
                         else:
@@ -423,6 +428,7 @@ class LiepinScraper(JobScraper):
                             job = self._parse_liepin_job(card, company, city)
                             if job:
                                 jobs.append(job)
+                                      extracted_count += 1
                         except Exception as e:
                             logger.error(f"解析单个职位失败: {e}")
                             continue

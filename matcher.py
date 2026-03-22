@@ -1,3 +1,4 @@
+from ai_filter import filter_jobs_with_ai
 """
 职位匹配模块
 根据配置过滤和匹配符合条件的职位
