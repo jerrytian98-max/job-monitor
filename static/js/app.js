@@ -221,7 +221,9 @@ async function loadConfig() {
             
             // 填充 Gemini API Key
             const geminiApiKey = document.getElementById('geminiApiKey');
-            if (geminiApiKey) geminiApiKey.value = config.gemini_api_key || 'AIzaSyB89OLNtEwIv1WcaGCiC2v_0XK77DpZgYw';
+            if (geminiApiKey) geminiApiKey.value = config.gemini_api_key || '';
+            const aiFilterPrompt = document.getElementById('aiFilterPrompt');
+            if (aiFilterPrompt) aiFilterPrompt.value = config.ai_filter_prompt || '';
             
             // 填充邮箱配置
             if (config.email) {
@@ -263,6 +265,7 @@ async function saveConfig() {
             exclude_keywords: tags.exclude,
             job_sites: sites,
             gemini_api_key: document.getElementById('geminiApiKey')?.value || '',
+        ai_filter_prompt: document.getElementById('aiFilterPrompt')?.value || '',
             email: {
                 sender: document.getElementById('emailSender')?.value || '',
                 auth_code: document.getElementById('emailAuthCode')?.value || '',
