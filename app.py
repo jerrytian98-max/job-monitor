@@ -449,7 +449,8 @@ if __name__ == '__main__':
     print("="*60)
     print("招聘监测系统 Web界面")
     print("="*60)
-    print(f"访问地址: http://127.0.0.1:5000")
+    port = int(os.environ.get("FLASK_PORT", 5000))
+    print(f"访问地址: http://127.0.0.1:{port}")
     print("="*60)
     print()
     
