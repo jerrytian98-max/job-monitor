@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'config.yaml'
+      - 'config*.yaml'
 
 jobs:
   scrape-jobs:
@@ -29,11 +29,11 @@ jobs:
           playwright install-deps
       - name: Run Scraper
         run: |
-          python -c "from app import run_monitor; run_monitor()"
+          python run_all_profiles.py
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add jobs.db jobs_cache.json app.log
+          git add jobs*.db jobs_cache*.json app*.log config*.yaml
           git commit -m "Auto-update job database and logs" || echo "No changes to commit"
           git push

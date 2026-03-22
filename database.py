@@ -8,7 +8,12 @@ import json
 from datetime import datetime
 from typing import List, Dict, Optional
 import logging
+
 import os
+PROFILE = os.environ.get('JOB_PROFILE', '')
+PROFILE_SUFFIX = f'_{PROFILE}' if PROFILE else ''
+DB_FILE = f'jobs{PROFILE_SUFFIX}.db'
+
 
 logger = logging.getLogger(__name__)
 
@@ -16,7 +21,7 @@ logger = logging.getLogger(__name__)
 class JobDatabase:
     """职位数据库管理器"""
     
-    def __init__(self, db_path: str = 'jobs.db'):
+    def __init__(self, db_path: str = DB_FILE):
         """
         初始化数据库
         

@@ -5,7 +5,13 @@
 
 from flask import Flask, render_template, jsonify, request, Response
 import yaml
+
 import os
+PROFILE = os.environ.get('JOB_PROFILE', '')
+PROFILE_SUFFIX = f'_{PROFILE}' if PROFILE else ''
+CONFIG_FILE = f'config{PROFILE_SUFFIX}.yaml'
+LOG_FILE = f'app{PROFILE_SUFFIX}.log'
+
 import subprocess
 import threading
 from datetime import datetime
@@ -54,8 +60,8 @@ event_queue = queue.Queue()
 def load_config():
     """加载配置文件"""
     try:
-        if os.path.exists('config.yaml'):
-            with open('config.yaml', 'r', encoding='utf-8') as f:
+        if os.path.exists(CONFIG_FILE):
+            with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
                 return yaml.safe_load(f)
         return {}
     except Exception as e:
@@ -66,7 +72,7 @@ def load_config():
 def save_config(config):
     """保存配置文件"""
     try:
-        with open('config.yaml', 'w', encoding='utf-8') as f:
+        with open(CONFIG_FILE, 'w', encoding='utf-8') as f:
             yaml.dump(config, f, allow_unicode=True, default_flow_style=False)
         return True
     except Exception as e:
@@ -102,7 +108,7 @@ class WebJobMonitor(JobMonitor):
     """
     Web环境下的监测器，支持回调
     """
-    def __init__(self, config_file: str = 'config.yaml', test_mode: bool = False):
+    def __init__(self, config_file: str = CONFIG_FILE, test_mode: bool = False):
         super().__init__(config_file, test_mode)
         self.status_callback = status_callback
         self.job_callback = job_callback
@@ -145,7 +151,7 @@ def run_monitor():
         monitor_status['running_time'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
         # 使用 WebJobMonitor
-        monitor = WebJobMonitor('config.yaml', test_mode=False)
+        monitor = WebJobMonitor(CONFIG_FILE, test_mode=False)
         monitor.run_forever()
         
     except Exception as e:
@@ -189,7 +195,7 @@ def update_config():
             logger.info("配置已更新")
             # 同步到云端
             try:
-                subprocess.run(['git', 'add', 'config.yaml'], cwd=os.path.dirname(os.path.abspath(__file__)), check=True)
+                subprocess.run(['git', 'add', CONFIG_FILE], cwd=os.path.dirname(os.path.abspath(__file__)), check=True)
                 subprocess.run(['git', 'commit', '-m', 'Update config via Web UI'], cwd=os.path.dirname(os.path.abspath(__file__)))
                 subprocess.run(['git', 'push', 'origin', 'main'], cwd=os.path.dirname(os.path.abspath(__file__)), check=True)
                 logger.info('配置已同步到GitHub云端')
@@ -265,7 +271,7 @@ def get_status():
 def test_check():
     """测试检查一次"""
     try:
-        monitor = WebJobMonitor('config.yaml', test_mode=True)
+        monitor = WebJobMonitor(CONFIG_FILE, test_mode=True)
         success = monitor.check_jobs()
 
         if success:
@@ -417,7 +423,7 @@ def get_logs():
     """获取日志内容"""
     try:
         lines = int(request.args.get('lines', 100))
-        log_file = 'app.log'
+        log_file = LOG_FILE
         
         if not os.path.exists(log_file):
             return jsonify({'success': True, 'data': '暂无日志记录'})
@@ -447,4 +453,4 @@ if __name__ == '__main__':
     print("="*60)
     print()
     
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=int(os.environ.get('FLASK_PORT', 5000)), debug=True)

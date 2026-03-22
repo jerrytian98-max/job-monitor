@@ -1,0 +1,14 @@
+check_interval: 4
+cities: []
+email:
+  auth_code: JVfNdNW2ESqGXi5x
+  receiver: jerrytian01@163.com
+  sender: jerrytian01@163.com
+  smtp_port: 465
+  smtp_server: smtp.163.com
+exclude_keywords: []
+gemini_api_key: sk-api-2Ion4WQ5BiRpyscB5nmsrd3Ie0Ntny6ImgqqJ6_BBYOg1FeoykwHL7RJuuxRL99b4YFyvVHVt3KifC-tAjECN4eGNL34b4xzgFmnC-bJAa71DDvHmo7LIjA
+job_keywords:
+- 战略
+job_sites:
+- https://jobs.bytedance.com/experienced/position/list?keywords=%E6%88%98%E7%95%A5

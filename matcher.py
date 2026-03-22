@@ -7,7 +7,12 @@ import hashlib
 from typing import List, Dict
 import logging
 import json
+
 import os
+PROFILE = os.environ.get('JOB_PROFILE', '')
+PROFILE_SUFFIX = f'_{PROFILE}' if PROFILE else ''
+CACHE_FILE = f'jobs_cache{PROFILE_SUFFIX}.json'
+
 from database import db
 
 logging.basicConfig(level=logging.INFO)
@@ -17,7 +22,7 @@ logger = logging.getLogger(__name__)
 class JobMatcher:
     """职位匹配器"""
     
-    def __init__(self, config: dict, storage_file: str = 'jobs_cache.json'):
+    def __init__(self, config: dict, storage_file: str = CACHE_FILE):
         self.config = config
         self.storage_file = storage_file
         self.known_jobs = self._load_known_jobs()
