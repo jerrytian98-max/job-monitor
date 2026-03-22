@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 13 * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - 'config.yaml'
 
 jobs:
   scrape-jobs:
