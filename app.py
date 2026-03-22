@@ -6,6 +6,7 @@
 from flask import Flask, render_template, jsonify, request, Response
 import yaml
 import os
+import subprocess
 import threading
 from datetime import datetime
 from main import JobMonitor
@@ -186,6 +187,14 @@ def update_config():
         # 保存配置
         if save_config(config):
             logger.info("配置已更新")
+            # 同步到云端
+            try:
+                subprocess.run(['git', 'add', 'config.yaml'], cwd=os.path.dirname(os.path.abspath(__file__)), check=True)
+                subprocess.run(['git', 'commit', '-m', 'Update config via Web UI'], cwd=os.path.dirname(os.path.abspath(__file__)))
+                subprocess.run(['git', 'push', 'origin', 'main'], cwd=os.path.dirname(os.path.abspath(__file__)), check=True)
+                logger.info('配置已同步到GitHub云端')
+            except Exception as e:
+                logger.error(f'配置同步云端失败: {e}')
             return jsonify({'success': True, 'message': '配置保存成功'})
         else:
             return jsonify({'success': False, 'message': '保存配置失败'})
