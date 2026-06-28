@@ -295,8 +295,6 @@ python main.py --config my_config.yaml
 
 ### Q: 如何添加新的招聘网站？
 
-### Q: 如何添加新的招聘网站？
-
 **A:** 
 1. 在Web界面的"监测网站"部分添加网站URL
 2. 或编辑 `config.yaml` 添加网站URL
